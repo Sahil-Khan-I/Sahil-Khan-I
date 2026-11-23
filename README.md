@@ -4,42 +4,6 @@
 
 </div>
 
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Sahil-Khan-I/priceport">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Khan-I&repo=priceport&theme=transparent&hide_border=true&title_color=7c86ff&text_color=9ca3af&icon_color=7c86ff" width="100%" alt="Priceport repository card" />
-      </a>
-      <sub><b>AGENTIC COMMERCE</b> · Cross-market hotel price intelligence · Next.js 16 / React 19 / TypeScript / TinyFish</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Sahil-Khan-I/guise">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Khan-I&repo=guise&theme=transparent&hide_border=true&title_color=7c86ff&text_color=9ca3af&icon_color=7c86ff" width="100%" alt="Guise repository card" />
-      </a>
-      <sub><b>COMPUTER VISION</b> · Real-time facial expression and hand gesture recognition · Python / OpenCV / MediaPipe / NumPy</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Sahil-Khan-I/fogri">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Khan-I&repo=fogri&theme=transparent&hide_border=true&title_color=7c86ff&text_color=9ca3af&icon_color=7c86ff" width="100%" alt="Fogri repository card" />
-      </a>
-      <sub><b>PRODUCT ENGINEERING</b> · Single-task focus timer · Next.js 16 / React 19 / TypeScript / Tailwind CSS</sub>
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <a href="https://github.com/Sahil-Khan-I?tab=repositories">
-        <img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/Sahil-Khan-I?tab=stars">
-        <img src="https://img.shields.io/badge/OPEN_SOURCE-AND_EXPERIMENTS-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Open source and experiments" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## GitHub telemetry
 
 <div align="center">
